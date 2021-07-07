@@ -1,0 +1,10 @@
+body{
+
+	background-image: url("https://st2.depositphotos.com/3223379/5387/i/600/depositphotos_53875805-stock-photo-information-technology-background.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+a:hover{
+	color: red;
+}
